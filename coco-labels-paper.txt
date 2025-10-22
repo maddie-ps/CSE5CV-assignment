@@ -7,3 +7,5 @@ dining table
 door
 cell phone
 vase
+shoe
+window
