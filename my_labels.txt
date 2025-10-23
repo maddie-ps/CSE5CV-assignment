@@ -1,11 +1,11 @@
 person
+shoe
 chair
 couch
 potted plant
 mirror
 dining table
+window
 door
 cell phone
 vase
-shoe
-window
